@@ -40,6 +40,7 @@ int main()
 			else cout << st.top() << '\n';
 		}
 	}
+	return 0;
 }
 
 	
